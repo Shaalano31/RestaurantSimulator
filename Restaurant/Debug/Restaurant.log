@@ -1,0 +1,42 @@
+﻿  Restaurant.cpp
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(342): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(380): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(418): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(456): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(489): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(517): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(543): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(569): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(604): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(638): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(672): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(705): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(951): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(975): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(999): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1023): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1049): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1070): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1089): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1108): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1153): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1176): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1199): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1675): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1273): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1302): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1330): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1366): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1394): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1422): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1458): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1486): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1514): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1550): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1578): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(1606): warning C4101: 'pMot': unreferenced local variable
+e:\final_inshallah\team_r7\restaurant\rest\restaurant.cpp(2431): warning C4715: 'Restaurant::Assigning': not all control paths return a value
+e:\final_inshallah\team_r7\restaurant\list.h(121): warning C4715: 'List<Order *>::Delete': not all control paths return a value
+  Restaurant.vcxproj -> E:\FINAL_INSHALLAH\Team_R7\Debug\Restaurant.exe
